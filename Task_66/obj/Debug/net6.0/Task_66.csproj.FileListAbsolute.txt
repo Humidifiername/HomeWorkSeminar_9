@@ -1,0 +1,15 @@
+D:\Study\HomeWorks\C#\HomeWorkSeminar_9\Task_66\bin\Debug\net6.0\Task_66.exe
+D:\Study\HomeWorks\C#\HomeWorkSeminar_9\Task_66\bin\Debug\net6.0\Task_66.deps.json
+D:\Study\HomeWorks\C#\HomeWorkSeminar_9\Task_66\bin\Debug\net6.0\Task_66.runtimeconfig.json
+D:\Study\HomeWorks\C#\HomeWorkSeminar_9\Task_66\bin\Debug\net6.0\Task_66.dll
+D:\Study\HomeWorks\C#\HomeWorkSeminar_9\Task_66\bin\Debug\net6.0\Task_66.pdb
+D:\Study\HomeWorks\C#\HomeWorkSeminar_9\Task_66\obj\Debug\net6.0\Task_66.csproj.AssemblyReference.cache
+D:\Study\HomeWorks\C#\HomeWorkSeminar_9\Task_66\obj\Debug\net6.0\Task_66.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\HomeWorks\C#\HomeWorkSeminar_9\Task_66\obj\Debug\net6.0\Task_66.AssemblyInfoInputs.cache
+D:\Study\HomeWorks\C#\HomeWorkSeminar_9\Task_66\obj\Debug\net6.0\Task_66.AssemblyInfo.cs
+D:\Study\HomeWorks\C#\HomeWorkSeminar_9\Task_66\obj\Debug\net6.0\Task_66.csproj.CoreCompileInputs.cache
+D:\Study\HomeWorks\C#\HomeWorkSeminar_9\Task_66\obj\Debug\net6.0\Task_66.dll
+D:\Study\HomeWorks\C#\HomeWorkSeminar_9\Task_66\obj\Debug\net6.0\refint\Task_66.dll
+D:\Study\HomeWorks\C#\HomeWorkSeminar_9\Task_66\obj\Debug\net6.0\Task_66.pdb
+D:\Study\HomeWorks\C#\HomeWorkSeminar_9\Task_66\obj\Debug\net6.0\Task_66.genruntimeconfig.cache
+D:\Study\HomeWorks\C#\HomeWorkSeminar_9\Task_66\obj\Debug\net6.0\ref\Task_66.dll
